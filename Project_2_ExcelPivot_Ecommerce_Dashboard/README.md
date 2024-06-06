@@ -1,6 +1,6 @@
 # Ecommerce Dashboard Project
 
-![Ecommerce Dashboard](P_2.mp4)
+![Ecommerce Dashboard](Project-2_Ecommerce_dashboard.png)
 
 #### **Description**
 This eCommerce dashboard is a tool designed to provide comprehensive insights into the performance of an online store. It utilizes Excel for data analysis and visualization, offering metrics such as conversion rate, cart abandonment rate, average order value, customer lifetime value, time spent on site, top-selling products, and customer geographic distribution.
