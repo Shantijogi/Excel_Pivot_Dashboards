@@ -1,9 +1,9 @@
 # IT Analytics Dashboard Project
 
-![IT Analytics](P6_ITanalytics_Dashboard.png)
+![IT Analytics](P6_ITAnalytical_Dashboard.png)
 
 #### **Description**
-This repository contains a Real Estate Dashboard designed to analyze and visualize various metrics related to data integration, anomaly detection, analytics implementation, big data adoption, and reporting accuracy across different departments and business units within a real estate organization.
+This repository designed to analyze and visualize various metrics related to data integration, anomaly detection, analytics implementation, big data adoption, and reporting accuracy across different departments and business units within a real estate organization.
 
 #### **Features**
 
